@@ -1,4 +1,9 @@
-### Hi there 👋
+# Coding With Thi 👨‍💻
+
+**<a href="https://codingwiththi.vercel.app">Coding With Thi</a>**
+
+Hi, I'm Thiago Moreira 🇧🇷,
+Full Stack developer skilled in bringing expertise in designing, installing, testing and maintaining software systems. Proficient in the Javascript ecosystem, using Node.js in the Back End with Typescript and React in the Front End. Also developer of mobile systems with Flutter. Able to effectively self-manage during independent projects as well as collaborate as part of a productive team.
 
 <!--
 **thiagomr8/thiagomr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
